@@ -1,9 +1,0 @@
-{
-    "activity": "Learn how the internet works",
-    "type": "education",
-    "participants": 1,
-    "price": 0,
-    "link": "",
-    "key": "9414706",
-    "accessibility": 0.1
-}
