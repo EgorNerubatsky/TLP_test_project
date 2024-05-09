@@ -27,7 +27,7 @@ class Application
 
             $filename = null;
             if ($senderType == 'file') {
-                $filename = 'example_4.txt';
+                $filename = sprintf('%s_%s_%s.txt', $type, date('Y-m-d'), date('H-i'));
             }
 
             // Відправка відповіді в залежності від вибраного типу відправки
